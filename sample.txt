@@ -1,2 +1,6 @@
+
 This is sample file
+
 first commit
+
+bare repo
